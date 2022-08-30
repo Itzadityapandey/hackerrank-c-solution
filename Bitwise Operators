@@ -5,7 +5,9 @@
 //Complete the following function.
 
 
-void calculate_the_maximum(int n, int k) {
+
+void calculate_the_maximum(int n, int k)
+{
 
   int and=0,or=0,xor=0;
  for(int i = 1;i<=n;i++)
