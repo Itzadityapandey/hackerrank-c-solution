@@ -8,7 +8,8 @@ char s[1001],i;
       {
           if(s[j]==i)
           {
-              f++;
+             
+             f++;
           }
       }
       printf("%d ",f);
