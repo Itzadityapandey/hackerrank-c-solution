@@ -24,7 +24,8 @@ struct paragraph
 
 struct document 
 {
-    struct paragraph* data;
+   
+   struct paragraph* data;
     int paragraph_count;//denotes number of paragraphs in a document
 };
 
